@@ -1,8 +1,8 @@
 <div class="footer">
 		<p>
-			<a href="#">Главная</a> |
-			<a href="#">Фильмы</a> |
-			<a href="#">Сериалы</a> |
+			<a href="index.php">Главная</a> |
+			<a href="films.php">Фильмы</a> |
+			<a href="serials.php">Сериалы</a> |
 			<a href="#">Контакты</a> |
 			<a href="#">Рейтинг фильмов</a>
 		</p>
