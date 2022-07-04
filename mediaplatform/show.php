@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php
-	$title = "Просмотр" ;
+<?php
+	$title = "Интерсттеллар" ;
 	require_once "assets/blocks/head.php";
 	?>
 </head>
 <body>
-	<div class="main">
+<div class="main">
 		<?php require_once "assets/blocks/header.php" ?>
 	</div>
-		<div class="side_content">
+	<div class="side_content">
 		<?php require_once "assets/blocks/rightCol.php"?>
 		</div>
-
 		<div class="content">
 			
 			<h1>Интерстеллар</h1>
@@ -24,7 +23,7 @@
 				<span class="label">Режиссер: </span><span class="value">Кристофер Нолан</span>
 			</div>
 			<hr>
-			<h2>Описание Интерстеллар</h2>
+			<h2>Описание фильма Интерстеллар</h2>
 			<div class="description_film">
 				
 				<img src="assets/img/inter.png">
@@ -32,7 +31,7 @@
 
 			</div>
 			<hr>
-			<h2>Отзывы об Интерстеллар</h2>
+			<h2>Отзывы о фильме Интерстеллар</h2>
 			<div class="reviews">
 				
 				<div class="review_name">
